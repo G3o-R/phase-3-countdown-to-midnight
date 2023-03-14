@@ -76,3 +76,5 @@ variable to the resulting difference.
    integer argument for the countdown.
 
 [sleep hint]: http://stackoverflow.com/questions/1329967/tell-ruby-program-to-wait-some-amount-of-time
+
+https://github.com/G3o-R/phase-3-countdown-to-midnight
